@@ -1,0 +1,10 @@
+image,status,urls_found,spam_detected,spam_count
+spam3.jpg,no_urls,0,False,0
+spam1.jpg,analyzed,2,True,1
+spam7.jpg,analyzed,4,False,0
+spam5.jpg,analyzed,2,False,0
+spam9.jpg,analyzed,3,False,0
+spam8.jpg,analyzed,3,False,0
+spam2.jpg,no_urls,0,False,0
+spam6.jpg,analyzed,4,False,0
+spam4.jpg,analyzed,2,False,0
